@@ -3,4 +3,7 @@ target/
 .vscode/
 *.iml
 *.log
+frontend/node_modules/
+frontend/dist/
 .env
+phase1.md
